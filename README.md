@@ -42,16 +42,6 @@ I'm an engineering student from MMIT, Pune, driven by curiosity, creativity, and
 - 🌱 Prepping for **Google Summer of Code 2026**
 - 🧠 Open to learning, feedback, and real-world collaboration
 
----
-
-## 📈 GitHub Stats
-
-![Mayuresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayureshBhat&show_icons=true&theme=react&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayureshBhat&layout=compact&theme=react)
-
----
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mayuresh-bhat-a36b7b29b/)
