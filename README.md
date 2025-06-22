@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mayuresh Bhat
+ 👋 Hi, I'm Mayuresh Bhat
 
 ### 🚀 A Passionate Engineer | Web Dev Enthusiast | AI Explorer | GSoC 2026 Aspirant
 
