@@ -2,7 +2,7 @@
 
 ### 🚀 A Passionate Engineer | Web Dev Enthusiast | AI Explorer | GSoC 2026 Aspirant
    
-I'm an engineering student from MMIT, Pune, driven by curiosity, creativity, and code. I love building real-world solutions that blend **technology + impact** — from intelligent automation to full-stack web platforms. I believe in learning out loud and shipping projects, not just ideas.
+I'm an engineering student from MMIT, Pune, driven by curiosity, creativity, and a passion for coding. I love building real-world solutions that blend **technology + impact** — from intelligent automation to full-stack web platforms. I believe in learning out loud and shipping projects, not just ideas.
 
 ---
 
