@@ -46,7 +46,5 @@ I'm an engineering student from MMIT, Pune, driven by curiosity, creativity, and
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mayuresh-bhat-a36b7b29b/)
 - 📬 Email: mayureshbhat25@gmail.com
-- 🌐 Portfolio: *Coming soon...*
-
-
+- 🌐 Portfolio: *Coming soon...
 
