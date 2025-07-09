@@ -35,8 +35,7 @@ I'm an engineering student from MMIT, Pune, driven by curiosity, creativity, and
 ---
 
 ## 📌 Highlights
-
-- 🎯 Selected for **Startup Olympiad** 
+ 
 - 🔬 AI/ML + Web Dev focused
 - 🎓 1st Year Completed | 
 - 🌱 Prepping for **Google Summer of Code 2026**
