@@ -1,49 +1,35 @@
- 👋 Hi, I'm Mayuresh Bhat
+👨‍💻 Mayuresh Bhat
 
-### 🚀 A Passionate Engineer | Web Dev  | AI | GSoC 2026 Aspirant
-   
-I'm an engineering student from MMIT, Pune, driven by curiosity, creativity, and a passion for coding. I love building real-world solutions that blend **technology + impact**
-— from intelligent automation to full-stack web platforms. I believe in learning out loud and shipping projects, not just ideas.
----
+Engineering Student | Web Dev & AI | GSoC 2026 Aspirant
 
-## 🔧 Tech Stack
+📍 MMIT, Pune | ✉️mayureshbhat25@gmail.com |  
 
-- **Languages:** Python, C, C++, JavaScript  
-- **Web Dev:** HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB  
-- **AI/ML:** OpenCV, NumPy, TensorFlow (Basic), cv2, pyautogui  
-- **Tools:** Git, GitHub, VS Code, Linux, Postman  
-- **Currently Exploring:** Competitive Programming | Advanced DSA | GSoC Prep | Deep Learning
+🚀 Tech Stack
 
----
+Languages: Python, C, C++, JavaScript
 
-## 💡 My Philosophy
+Web Dev: MERN (MongoDB, Express, React, Node)
 
-> *"Build → Break → Improve → Repeat."*  
-> I believe consistent execution beats perfection. My focus is on learning deeply, building publicly, and collaborating with driven minds.
+AI/ML: OpenCV, NumPy, TensorFlow
 
----
+Tools: Git, GitHub, VS Code
 
-## 🛠️ Notable Projects
+🛠 Notable Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🖱️ **Finger Cursor** | Control your mouse pointer using hand gestures via OpenCV | Python, OpenCV, PyAutoGUI |
-| 🛍️ **MERN E-Commerce Site** | A full-stack shopping website with cart, auth, and responsive design | React, Node, MongoDB |
-| 🧠 **Face Detection App** | Real-time face recognition and detection using TensorFlow & OpenCV | Python, TensorFlow, OpenCV |
-| 📒 **AI Notes App (WIP)** | Smart notes organizer with GPT-4 backend | React, Node.js, GPT API |
+Finger Cursor – Hand-gesture mouse control (Python, OpenCV)
 
----
+Face & Attendance Detection – Real-time face recognition + attendance (TensorFlow, OpenCV)
 
-## 📌 Highlights
- 
-- 🔬 AI/ML + Web Dev focused
-- 🎓 1st Year Completed | 
-- 🌱 Prepping for **Google Summer of Code 2026**
-- 🧠 Open to learning, feedback, and real-world collaboration
+Flashcard App (MVP) – Smart learning tool with spaced repetition (React)
 
-## 📫 Let's Connect
+Websites – Responsive personal & utility websites (HTML, CSS, JS)
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mayuresh-bhat-a36b7b29b/)
-- 📬 Email: mayureshbhat25@gmail.com
-- 🌐 Portfolio: *Coming soon...
+AI Notes App (WIP) – Smart note organizer (React, GPT API)
 
+🌟 Highlights
+
+1st Year Completed ✅
+
+Active in AI/ML + Web Dev projects
+
+Preparing for Google Summer of Code 2026
