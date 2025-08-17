@@ -2,7 +2,7 @@
 
 Engineering Student | Web Dev & AI | GSoC 2026 Aspirant
 
-📍 MMIT, Pune | ✉️ mayureshbhat25@gmail.com | 🔗 LinkedIn
+📍 MMIT, Pune | ✉️ mayureshbhat25@gmail.com |
 
 🚀 Tech Stack
 
