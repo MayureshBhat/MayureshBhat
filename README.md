@@ -75,10 +75,9 @@ An intelligent note-taking application that explores AI-powered organization, su
 ##  GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mayureshbhat&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayureshbhat&layout=compact&theme=transparent&hide_border=true" />
 </p>
-
 ---
 
 ##  Let's Connect
