@@ -83,7 +83,7 @@ An intelligent note-taking application that explores AI-powered organization, su
 
 ##  Let's Connect
 
-*  LinkedIn: **[Your LinkedIn]**
+*  LinkedIn: **[www.linkedin.com/in/
+mayureshbhat-dev]**
 *  Email: **[mayureshbhat25@gmail.com](mailto:mayureshbhat25@gmail.com)**
-*  GitHub: **[Your GitHub]**
 
